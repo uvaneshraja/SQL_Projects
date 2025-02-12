@@ -1,0 +1,1 @@
+select distinct ProductCategory.Name from Production.ProductCategory
